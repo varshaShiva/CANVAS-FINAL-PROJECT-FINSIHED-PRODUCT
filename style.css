@@ -1,0 +1,8 @@
+body{
+    text-align: center;
+    background-image:url("https://wallpapercave.com/wp/wp3228155.jpg")
+}
+#myCanvas{
+    background-color:whitesmoke;
+    border:5px ridge black;
+}
